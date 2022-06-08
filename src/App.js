@@ -3,7 +3,8 @@ import "./App.scss";
 function App() {
   return (
     <div className="">
-      <h1>Admin</h1>
+      <h3>Admin Page</h3>
+      <i class="fa-solid fa-user-tie"></i>
     </div>
   );
 }
